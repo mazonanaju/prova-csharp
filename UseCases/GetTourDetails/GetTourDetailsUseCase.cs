@@ -1,0 +1,1 @@
+namespace Turistando.UseCases.GetTourDetails;

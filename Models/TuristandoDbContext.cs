@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-
 namespace Turistando.Models;
 
 public class PasseiosDbContext(DbContextOptions options) : DbContext(options)

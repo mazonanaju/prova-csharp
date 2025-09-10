@@ -1,0 +1,7 @@
+C:\Users\disrct\Desktop\csharp-prova\prova-csharp\obj\Debug\net9.0\prova-csharp.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\csharp-prova\prova-csharp\obj\Debug\net9.0\prova-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\csharp-prova\prova-csharp\obj\Debug\net9.0\prova-csharp.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\csharp-prova\prova-csharp\obj\Debug\net9.0\prova-csharp.AssemblyInfo.cs
+C:\Users\disrct\Desktop\csharp-prova\prova-csharp\obj\Debug\net9.0\prova-csharp.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\csharp-prova\prova-csharp\obj\Debug\net9.0\prova-csharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\disrct\Desktop\csharp-prova\prova-csharp\obj\Debug\net9.0\prova-csharp.sourcelink.json

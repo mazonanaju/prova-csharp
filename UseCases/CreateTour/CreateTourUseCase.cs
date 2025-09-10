@@ -1,0 +1,2 @@
+namespace Turistando.UseCases.CreateTour;
+
