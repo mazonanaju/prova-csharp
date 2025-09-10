@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SJhKP74AaIs9nQF4qKWJtFwkhENA9RS2GrTlwHOxqM0=",
+  "Source": "prova-csharp",
+  "BasePath": "_content/prova-csharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
